@@ -1,0 +1,709 @@
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Template\WebAppInstituto\WebAppInstituto\bin\WebAppInstituto.dll.config
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Template\WebAppInstituto\WebAppInstituto\bin\WebAppInstituto.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Template\WebAppInstituto\WebAppInstituto\bin\WebAppInstituto.pdb
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Template\WebAppInstituto\WebAppInstituto\bin\roslyn\csc.exe
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Template\WebAppInstituto\WebAppInstituto\bin\roslyn\csc.exe.config
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Template\WebAppInstituto\WebAppInstituto\bin\roslyn\csc.rsp
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Template\WebAppInstituto\WebAppInstituto\bin\roslyn\csi.exe
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Template\WebAppInstituto\WebAppInstituto\bin\roslyn\csi.rsp
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Template\WebAppInstituto\WebAppInstituto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Template\WebAppInstituto\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Template\WebAppInstituto\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Template\WebAppInstituto\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Template\WebAppInstituto\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Template\WebAppInstituto\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Template\WebAppInstituto\WebAppInstituto\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Template\WebAppInstituto\WebAppInstituto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Template\WebAppInstituto\WebAppInstituto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Template\WebAppInstituto\WebAppInstituto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Template\WebAppInstituto\WebAppInstituto\bin\roslyn\System.AppContext.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Template\WebAppInstituto\WebAppInstituto\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Template\WebAppInstituto\WebAppInstituto\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Template\WebAppInstituto\WebAppInstituto\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Template\WebAppInstituto\WebAppInstituto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Template\WebAppInstituto\WebAppInstituto\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Template\WebAppInstituto\WebAppInstituto\bin\roslyn\vbc.exe
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Template\WebAppInstituto\WebAppInstituto\bin\roslyn\vbc.exe.config
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Template\WebAppInstituto\WebAppInstituto\bin\roslyn\vbc.rsp
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Template\WebAppInstituto\WebAppInstituto\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Template\WebAppInstituto\WebAppInstituto\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Template\WebAppInstituto\WebAppInstituto\bin\Antlr3.Runtime.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Template\WebAppInstituto\WebAppInstituto\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Template\WebAppInstituto\WebAppInstituto\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Template\WebAppInstituto\WebAppInstituto\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Template\WebAppInstituto\WebAppInstituto\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Template\WebAppInstituto\WebAppInstituto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Template\WebAppInstituto\WebAppInstituto\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Template\WebAppInstituto\WebAppInstituto\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Template\WebAppInstituto\WebAppInstituto\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Template\WebAppInstituto\WebAppInstituto\bin\Newtonsoft.Json.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Template\WebAppInstituto\WebAppInstituto\bin\System.Web.Optimization.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Template\WebAppInstituto\WebAppInstituto\bin\WebGrease.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Template\WebAppInstituto\WebAppInstituto\bin\System.Web.Optimization.xml
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Template\WebAppInstituto\WebAppInstituto\bin\Newtonsoft.Json.xml
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Template\WebAppInstituto\WebAppInstituto\bin\Antlr3.Runtime.pdb
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Template\WebAppInstituto\WebAppInstituto\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Template\WebAppInstituto\WebAppInstituto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Template\WebAppInstituto\WebAppInstituto\obj\Debug\WebAppInstituto.csprojAssemblyReference.cache
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Template\WebAppInstituto\WebAppInstituto\obj\Debug\WebAppInstituto.csproj.CopyComplete
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Template\WebAppInstituto\WebAppInstituto\obj\Debug\WebAppInstituto.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Template\WebAppInstituto\WebAppInstituto\obj\Debug\WebAppInstituto.pdb
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\WebAppInstituto 2\WebAppInstituto\bin\WebAppInstituto.dll.config
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\WebAppInstituto 2\WebAppInstituto\bin\WebAppInstituto.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\WebAppInstituto 2\WebAppInstituto\bin\WebAppInstituto.pdb
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csc.exe
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csc.exe.config
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csc.rsp
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csi.exe
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csi.rsp
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.AppContext.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\WebAppInstituto 2\WebAppInstituto\bin\roslyn\vbc.exe
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\WebAppInstituto 2\WebAppInstituto\bin\roslyn\vbc.exe.config
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\WebAppInstituto 2\WebAppInstituto\bin\roslyn\vbc.rsp
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\WebAppInstituto 2\WebAppInstituto\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\WebAppInstituto 2\WebAppInstituto\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\WebAppInstituto 2\WebAppInstituto\bin\Antlr3.Runtime.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\WebAppInstituto 2\WebAppInstituto\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\WebAppInstituto 2\WebAppInstituto\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\WebAppInstituto 2\WebAppInstituto\bin\Newtonsoft.Json.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\WebAppInstituto 2\WebAppInstituto\bin\System.Web.Optimization.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\WebAppInstituto 2\WebAppInstituto\bin\WebGrease.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\WebAppInstituto 2\WebAppInstituto\bin\System.Web.Optimization.xml
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\WebAppInstituto 2\WebAppInstituto\bin\Newtonsoft.Json.xml
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\WebAppInstituto 2\WebAppInstituto\bin\Antlr3.Runtime.pdb
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.csprojAssemblyReference.cache
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.csproj.CopyComplete
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.pdb
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.dll
+C:\Users\User\Desktop\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.pdb
+C:\Users\User\Desktop\WebAppInstituto 2\WebAppInstituto\bin\WebAppInstituto.dll.config
+C:\Users\User\Desktop\WebAppInstituto 2\WebAppInstituto\bin\WebAppInstituto.dll
+C:\Users\User\Desktop\WebAppInstituto 2\WebAppInstituto\bin\WebAppInstituto.pdb
+C:\Users\User\Desktop\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csc.exe
+C:\Users\User\Desktop\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csi.exe
+C:\Users\User\Desktop\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\WebAppInstituto 2\WebAppInstituto\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\WebAppInstituto 2\WebAppInstituto\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\WebAppInstituto 2\WebAppInstituto\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\WebAppInstituto 2\WebAppInstituto\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\WebAppInstituto 2\WebAppInstituto\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\WebAppInstituto 2\WebAppInstituto\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\WebAppInstituto 2\WebAppInstituto\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\User\Desktop\WebAppInstituto 2\WebAppInstituto\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\User\Desktop\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\User\Desktop\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\User\Desktop\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\User\Desktop\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\User\Desktop\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\WebAppInstituto 2\WebAppInstituto\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\WebAppInstituto 2\WebAppInstituto\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\WebAppInstituto 2\WebAppInstituto\bin\WebGrease.dll
+C:\Users\User\Desktop\WebAppInstituto 2\WebAppInstituto\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\WebAppInstituto 2\WebAppInstituto\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\WebAppInstituto 2\WebAppInstituto\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\User\Desktop\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.csproj.CopyComplete
+C:\Users\User\Desktop\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.csprojAssemblyReference.cache
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\WebAppInstituto.dll.config
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\WebAppInstituto.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\WebAppInstituto.pdb
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csc.exe
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csc.exe.config
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csc.rsp
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csi.exe
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csi.rsp
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.AppContext.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\roslyn\vbc.exe
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\roslyn\vbc.exe.config
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\roslyn\vbc.rsp
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\Antlr3.Runtime.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\Newtonsoft.Json.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\System.Web.Optimization.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\WebGrease.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\System.Web.Optimization.xml
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\Newtonsoft.Json.xml
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\Antlr3.Runtime.pdb
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.csprojAssemblyReference.cache
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.csproj.CopyComplete
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.pdb
+C:\Users\User\Desktop\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\WebAppInstituto.dll.config
+C:\Users\User\Desktop\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\WebAppInstituto.dll
+C:\Users\User\Desktop\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\WebAppInstituto.pdb
+C:\Users\User\Desktop\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csc.exe
+C:\Users\User\Desktop\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csi.exe
+C:\Users\User\Desktop\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\User\Desktop\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\User\Desktop\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\User\Desktop\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\User\Desktop\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\User\Desktop\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\User\Desktop\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\WebGrease.dll
+C:\Users\User\Desktop\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\User\Desktop\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.csprojAssemblyReference.cache
+C:\Users\User\Desktop\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.csproj.CopyComplete
+C:\Users\User\Desktop\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.dll
+C:\Users\User\Desktop\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.pdb
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\Clase 8\Instituto_COmpleto\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\Clase 8\Instituto_COmpleto\InstitutoDB_full\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.pdb
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\Clase 8\WebAppInstituto 2\WebAppInstituto\bin\WebAppInstituto.dll.config
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\Clase 8\WebAppInstituto 2\WebAppInstituto\bin\WebAppInstituto.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\Clase 8\WebAppInstituto 2\WebAppInstituto\bin\WebAppInstituto.pdb
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\Clase 8\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csc.exe
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\Clase 8\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csc.exe.config
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\Clase 8\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csc.rsp
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\Clase 8\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csi.exe
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\Clase 8\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csi.rsp
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\Clase 8\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\Clase 8\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\Clase 8\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\Clase 8\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\Clase 8\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\Clase 8\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\Clase 8\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\Clase 8\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\Clase 8\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\Clase 8\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\Clase 8\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.AppContext.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\Clase 8\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\Clase 8\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\Clase 8\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\Clase 8\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\Clase 8\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\Clase 8\WebAppInstituto 2\WebAppInstituto\bin\roslyn\vbc.exe
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\Clase 8\WebAppInstituto 2\WebAppInstituto\bin\roslyn\vbc.exe.config
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\Clase 8\WebAppInstituto 2\WebAppInstituto\bin\roslyn\vbc.rsp
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\Clase 8\WebAppInstituto 2\WebAppInstituto\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\Clase 8\WebAppInstituto 2\WebAppInstituto\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\Clase 8\WebAppInstituto 2\WebAppInstituto\bin\Antlr3.Runtime.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\Clase 8\WebAppInstituto 2\WebAppInstituto\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\Clase 8\WebAppInstituto 2\WebAppInstituto\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\Clase 8\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\Clase 8\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\Clase 8\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\Clase 8\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\Clase 8\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\Clase 8\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\Clase 8\WebAppInstituto 2\WebAppInstituto\bin\Newtonsoft.Json.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\Clase 8\WebAppInstituto 2\WebAppInstituto\bin\System.Web.Optimization.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\Clase 8\WebAppInstituto 2\WebAppInstituto\bin\WebGrease.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\Clase 8\WebAppInstituto 2\WebAppInstituto\bin\System.Web.Optimization.xml
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\Clase 8\WebAppInstituto 2\WebAppInstituto\bin\Newtonsoft.Json.xml
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\Clase 8\WebAppInstituto 2\WebAppInstituto\bin\Antlr3.Runtime.pdb
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\Clase 8\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\Clase 8\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\Clase 8\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.csprojAssemblyReference.cache
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\Clase 8\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.csproj.CopyComplete
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\Clase 8\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.dll
+C:\Users\Rodrigo\OneDrive\Projects\Junin\Material\Progra_web_Proyectos\Clase 8\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.pdb
+C:\Users\maty1\Desktop\clase8\WebAppInstituto 2\WebAppInstituto\bin\WebAppInstituto.dll.config
+C:\Users\maty1\Desktop\clase8\WebAppInstituto 2\WebAppInstituto\bin\WebAppInstituto.dll
+C:\Users\maty1\Desktop\clase8\WebAppInstituto 2\WebAppInstituto\bin\WebAppInstituto.pdb
+C:\Users\maty1\Desktop\clase8\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csc.exe
+C:\Users\maty1\Desktop\clase8\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csc.exe.config
+C:\Users\maty1\Desktop\clase8\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csc.rsp
+C:\Users\maty1\Desktop\clase8\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csi.exe
+C:\Users\maty1\Desktop\clase8\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csi.rsp
+C:\Users\maty1\Desktop\clase8\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\maty1\Desktop\clase8\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\maty1\Desktop\clase8\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\maty1\Desktop\clase8\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\maty1\Desktop\clase8\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\maty1\Desktop\clase8\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\maty1\Desktop\clase8\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\maty1\Desktop\clase8\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\maty1\Desktop\clase8\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\maty1\Desktop\clase8\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\maty1\Desktop\clase8\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.AppContext.dll
+C:\Users\maty1\Desktop\clase8\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\maty1\Desktop\clase8\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\maty1\Desktop\clase8\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\maty1\Desktop\clase8\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\maty1\Desktop\clase8\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\maty1\Desktop\clase8\WebAppInstituto 2\WebAppInstituto\bin\roslyn\vbc.exe
+C:\Users\maty1\Desktop\clase8\WebAppInstituto 2\WebAppInstituto\bin\roslyn\vbc.exe.config
+C:\Users\maty1\Desktop\clase8\WebAppInstituto 2\WebAppInstituto\bin\roslyn\vbc.rsp
+C:\Users\maty1\Desktop\clase8\WebAppInstituto 2\WebAppInstituto\bin\roslyn\VBCSCompiler.exe
+C:\Users\maty1\Desktop\clase8\WebAppInstituto 2\WebAppInstituto\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\maty1\Desktop\clase8\WebAppInstituto 2\WebAppInstituto\bin\Antlr3.Runtime.dll
+C:\Users\maty1\Desktop\clase8\WebAppInstituto 2\WebAppInstituto\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\maty1\Desktop\clase8\WebAppInstituto 2\WebAppInstituto\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\maty1\Desktop\clase8\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\maty1\Desktop\clase8\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\maty1\Desktop\clase8\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\maty1\Desktop\clase8\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\maty1\Desktop\clase8\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\maty1\Desktop\clase8\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\maty1\Desktop\clase8\WebAppInstituto 2\WebAppInstituto\bin\Newtonsoft.Json.dll
+C:\Users\maty1\Desktop\clase8\WebAppInstituto 2\WebAppInstituto\bin\System.Web.Optimization.dll
+C:\Users\maty1\Desktop\clase8\WebAppInstituto 2\WebAppInstituto\bin\WebGrease.dll
+C:\Users\maty1\Desktop\clase8\WebAppInstituto 2\WebAppInstituto\bin\System.Web.Optimization.xml
+C:\Users\maty1\Desktop\clase8\WebAppInstituto 2\WebAppInstituto\bin\Newtonsoft.Json.xml
+C:\Users\maty1\Desktop\clase8\WebAppInstituto 2\WebAppInstituto\bin\Antlr3.Runtime.pdb
+C:\Users\maty1\Desktop\clase8\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\maty1\Desktop\clase8\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\maty1\Desktop\clase8\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.csprojAssemblyReference.cache
+C:\Users\maty1\Desktop\clase8\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.csproj.CoreCompileInputs.cache
+C:\Users\maty1\Desktop\clase8\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.csproj.CopyComplete
+C:\Users\maty1\Desktop\clase8\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.dll
+C:\Users\maty1\Desktop\clase8\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.pdb
+C:\Users\maty1\Desktop\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\WebAppInstituto.dll.config
+C:\Users\maty1\Desktop\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\WebAppInstituto.dll
+C:\Users\maty1\Desktop\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\WebAppInstituto.pdb
+C:\Users\maty1\Desktop\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csc.exe
+C:\Users\maty1\Desktop\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csc.exe.config
+C:\Users\maty1\Desktop\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csc.rsp
+C:\Users\maty1\Desktop\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csi.exe
+C:\Users\maty1\Desktop\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csi.rsp
+C:\Users\maty1\Desktop\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\maty1\Desktop\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\maty1\Desktop\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\maty1\Desktop\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\maty1\Desktop\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\maty1\Desktop\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\maty1\Desktop\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\maty1\Desktop\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\maty1\Desktop\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\maty1\Desktop\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\maty1\Desktop\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.AppContext.dll
+C:\Users\maty1\Desktop\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\maty1\Desktop\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\maty1\Desktop\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\maty1\Desktop\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\maty1\Desktop\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\maty1\Desktop\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\roslyn\vbc.exe
+C:\Users\maty1\Desktop\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\roslyn\vbc.exe.config
+C:\Users\maty1\Desktop\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\roslyn\vbc.rsp
+C:\Users\maty1\Desktop\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\roslyn\VBCSCompiler.exe
+C:\Users\maty1\Desktop\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\maty1\Desktop\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\Antlr3.Runtime.dll
+C:\Users\maty1\Desktop\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\maty1\Desktop\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\maty1\Desktop\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\maty1\Desktop\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\maty1\Desktop\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\maty1\Desktop\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\maty1\Desktop\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\maty1\Desktop\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\maty1\Desktop\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\Newtonsoft.Json.dll
+C:\Users\maty1\Desktop\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\System.Web.Optimization.dll
+C:\Users\maty1\Desktop\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\WebGrease.dll
+C:\Users\maty1\Desktop\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\System.Web.Optimization.xml
+C:\Users\maty1\Desktop\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\Newtonsoft.Json.xml
+C:\Users\maty1\Desktop\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\Antlr3.Runtime.pdb
+C:\Users\maty1\Desktop\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\maty1\Desktop\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\maty1\Desktop\clase8 - copia\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.csprojAssemblyReference.cache
+C:\Users\maty1\Desktop\clase8 - copia\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.csproj.CoreCompileInputs.cache
+C:\Users\maty1\Desktop\clase8 - copia\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.csproj.CopyComplete
+C:\Users\maty1\Desktop\clase8 - copia\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.dll
+C:\Users\maty1\Desktop\clase8 - copia\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.pdb
+G:\Junintech\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\WebAppInstituto.dll.config
+G:\Junintech\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\WebAppInstituto.dll
+G:\Junintech\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\WebAppInstituto.pdb
+G:\Junintech\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csc.exe
+G:\Junintech\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csc.exe.config
+G:\Junintech\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csc.rsp
+G:\Junintech\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csi.exe
+G:\Junintech\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csi.rsp
+G:\Junintech\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Junintech\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Junintech\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Junintech\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Junintech\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Junintech\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Junintech\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Junintech\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Junintech\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Junintech\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Junintech\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.AppContext.dll
+G:\Junintech\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.Collections.Immutable.dll
+G:\Junintech\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Junintech\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.IO.FileSystem.dll
+G:\Junintech\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Junintech\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.Reflection.Metadata.dll
+G:\Junintech\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\roslyn\vbc.exe
+G:\Junintech\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\roslyn\vbc.exe.config
+G:\Junintech\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\roslyn\vbc.rsp
+G:\Junintech\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\roslyn\VBCSCompiler.exe
+G:\Junintech\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\roslyn\VBCSCompiler.exe.config
+G:\Junintech\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\Antlr3.Runtime.dll
+G:\Junintech\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\AspNet.ScriptManager.bootstrap.dll
+G:\Junintech\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\AspNet.ScriptManager.jQuery.dll
+G:\Junintech\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\Junintech\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\Junintech\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Junintech\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\Junintech\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.ScriptManager.WebForms.dll
+G:\Junintech\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.Web.Infrastructure.dll
+G:\Junintech\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\Newtonsoft.Json.dll
+G:\Junintech\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\System.Web.Optimization.dll
+G:\Junintech\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\WebGrease.dll
+G:\Junintech\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\System.Web.Optimization.xml
+G:\Junintech\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\Newtonsoft.Json.xml
+G:\Junintech\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\Antlr3.Runtime.pdb
+G:\Junintech\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\Junintech\clase8 - copia\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Junintech\clase8 - copia\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.csprojAssemblyReference.cache
+G:\Junintech\clase8 - copia\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.csproj.CoreCompileInputs.cache
+G:\Junintech\clase8 - copia\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.csproj.CopyComplete
+G:\Junintech\clase8 - copia\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.dll
+G:\Junintech\clase8 - copia\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.pdb
+G:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\WebAppInstituto.dll.config
+G:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\WebAppInstituto.dll
+G:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\WebAppInstituto.pdb
+G:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csc.exe
+G:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csc.exe.config
+G:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csc.rsp
+G:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csi.exe
+G:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csi.rsp
+G:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.AppContext.dll
+G:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.Collections.Immutable.dll
+G:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.IO.FileSystem.dll
+G:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.Reflection.Metadata.dll
+G:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\vbc.exe
+G:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\vbc.exe.config
+G:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\vbc.rsp
+G:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\VBCSCompiler.exe
+G:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\VBCSCompiler.exe.config
+G:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Antlr3.Runtime.dll
+G:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\AspNet.ScriptManager.bootstrap.dll
+G:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\AspNet.ScriptManager.jQuery.dll
+G:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.ScriptManager.WebForms.dll
+G:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.Web.Infrastructure.dll
+G:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Newtonsoft.Json.dll
+G:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\System.Web.Optimization.dll
+G:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\WebGrease.dll
+G:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\System.Web.Optimization.xml
+G:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Newtonsoft.Json.xml
+G:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Antlr3.Runtime.pdb
+G:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.csprojAssemblyReference.cache
+G:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.csproj.CoreCompileInputs.cache
+G:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.csproj.CopyComplete
+G:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.dll
+G:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.pdb
+F:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\WebAppInstituto.dll.config
+F:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\WebAppInstituto.dll
+F:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\WebAppInstituto.pdb
+F:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csc.exe
+F:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csc.exe.config
+F:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csc.rsp
+F:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csi.exe
+F:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csi.rsp
+F:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.AppContext.dll
+F:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.Collections.Immutable.dll
+F:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.IO.FileSystem.dll
+F:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.Reflection.Metadata.dll
+F:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\vbc.exe
+F:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\vbc.exe.config
+F:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\vbc.rsp
+F:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\VBCSCompiler.exe
+F:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\VBCSCompiler.exe.config
+F:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Antlr3.Runtime.dll
+F:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\AspNet.ScriptManager.bootstrap.dll
+F:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\AspNet.ScriptManager.jQuery.dll
+F:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.ScriptManager.WebForms.dll
+F:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.Web.Infrastructure.dll
+F:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Newtonsoft.Json.dll
+F:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\System.Web.Optimization.dll
+F:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\WebGrease.dll
+F:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\System.Web.Optimization.xml
+F:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Newtonsoft.Json.xml
+F:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Antlr3.Runtime.pdb
+F:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.csprojAssemblyReference.cache
+F:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.csproj.CopyComplete
+F:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.dll
+F:\Junintech\Cla8Final\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.pdb
+D:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\WebAppInstituto.dll.config
+D:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\WebAppInstituto.dll
+D:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\WebAppInstituto.pdb
+D:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csc.exe
+D:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csc.exe.config
+D:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csc.rsp
+D:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csi.exe
+D:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csi.rsp
+D:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.AppContext.dll
+D:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.Collections.Immutable.dll
+D:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.IO.FileSystem.dll
+D:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.Reflection.Metadata.dll
+D:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\vbc.exe
+D:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\vbc.exe.config
+D:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\vbc.rsp
+D:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\VBCSCompiler.exe
+D:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\VBCSCompiler.exe.config
+D:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Antlr3.Runtime.dll
+D:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\AspNet.ScriptManager.jQuery.dll
+D:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.Web.Infrastructure.dll
+D:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Newtonsoft.Json.dll
+D:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\System.Web.Optimization.dll
+D:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\WebGrease.dll
+D:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\System.Web.Optimization.xml
+D:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Newtonsoft.Json.xml
+D:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Antlr3.Runtime.pdb
+D:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.csprojAssemblyReference.cache
+D:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.csproj.CoreCompileInputs.cache
+D:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.csproj.CopyComplete
+D:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.dll
+D:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.pdb
+F:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\WebAppInstituto.dll.config
+F:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\WebAppInstituto.dll
+F:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\WebAppInstituto.pdb
+F:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csc.exe
+F:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csc.exe.config
+F:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csc.rsp
+F:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csi.exe
+F:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csi.rsp
+F:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.AppContext.dll
+F:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.Collections.Immutable.dll
+F:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.IO.FileSystem.dll
+F:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.Reflection.Metadata.dll
+F:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\vbc.exe
+F:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\vbc.exe.config
+F:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\vbc.rsp
+F:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\VBCSCompiler.exe
+F:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\VBCSCompiler.exe.config
+F:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Antlr3.Runtime.dll
+F:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\AspNet.ScriptManager.bootstrap.dll
+F:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\AspNet.ScriptManager.jQuery.dll
+F:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.ScriptManager.WebForms.dll
+F:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.Web.Infrastructure.dll
+F:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Newtonsoft.Json.dll
+F:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\System.Web.Optimization.dll
+F:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\WebGrease.dll
+F:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\System.Web.Optimization.xml
+F:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Newtonsoft.Json.xml
+F:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Antlr3.Runtime.pdb
+F:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.csprojAssemblyReference.cache
+F:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.csproj.CopyComplete
+F:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.dll
+F:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.pdb
+G:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\WebAppInstituto.dll.config
+G:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\WebAppInstituto.dll
+G:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\WebAppInstituto.pdb
+G:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csc.exe
+G:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csc.exe.config
+G:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csc.rsp
+G:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csi.exe
+G:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\csi.rsp
+G:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.AppContext.dll
+G:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.Collections.Immutable.dll
+G:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.IO.FileSystem.dll
+G:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\System.Reflection.Metadata.dll
+G:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\vbc.exe
+G:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\vbc.exe.config
+G:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\vbc.rsp
+G:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\VBCSCompiler.exe
+G:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\roslyn\VBCSCompiler.exe.config
+G:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Antlr3.Runtime.dll
+G:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\AspNet.ScriptManager.bootstrap.dll
+G:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\AspNet.ScriptManager.jQuery.dll
+G:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.ScriptManager.WebForms.dll
+G:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.Web.Infrastructure.dll
+G:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Newtonsoft.Json.dll
+G:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\System.Web.Optimization.dll
+G:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\WebGrease.dll
+G:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\System.Web.Optimization.xml
+G:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Newtonsoft.Json.xml
+G:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Antlr3.Runtime.pdb
+G:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.csproj.CoreCompileInputs.cache
+G:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.csproj.CopyComplete
+G:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.dll
+G:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.pdb
+G:\Junintech Web.NET con C# .NET\Cla8Final\WebAppInstituto 2\WebAppInstituto\obj\Debug\WebAppInstituto.csprojAssemblyReference.cache
